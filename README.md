@@ -60,4 +60,4 @@ Ein Deployment ist erst abgeschlossen, wenn das System vollständig eingerichtet
 * **Ergebnis:** Ein perfekt sauberes, schnelles und datenschutzfreundliches Betriebssystem, das optimal auf die Hardware abgestimmt ist.
 
 ---
-📧 **Auf der Suche nach einer Ausbildung?** Ich suche aktiv nach einem Ausbildungsplatz als *Fachinformatiker für Systemintegration* in Deutschland. Kontaktieren Sie mich gerne über mein [LinkedIn-Profil](www.linkedin.com/in/nkenzoh-moses-b72875412)]
+📧 **Auf der Suche nach einer Ausbildung?** Ich suche aktiv nach einem Ausbildungsplatz als *Fachinformatiker für Systemintegration* in Deutschland. Kontaktieren Sie mich gerne über mein [www.linkedin.com/in/nkenzoh-moses-b72875412]
